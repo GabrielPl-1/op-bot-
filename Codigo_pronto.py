@@ -29,6 +29,6 @@ async def on_message(message):
 		await message.channel.send(response)
 		
 		
-client.run('NzU0NzM4MzQzNTkzMzc3ODYy.X15G2w.VSy5oftwlXmUuCNUpXbQgYALrCg')
+client.run('coloque o codigo do site aqui')
 arquivo.close()
 arquivo2.close()
